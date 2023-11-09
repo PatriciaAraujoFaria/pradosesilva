@@ -30,8 +30,8 @@ body {
 }
 
 .ini {
-    background-image: url(../imagens/1aa.jpg);
-    background-color: white;
+    
+    background-image: url('../imagens/b1.png');
     height: 100%;
     width: 100%;
     background-repeat: no-repeat; 
@@ -39,7 +39,7 @@ body {
     padding-top: 5.50rem;
     background-attachment:fixed;
     text-align: center;
-    color: black;
+    color: white;
 }
 
 .ini > h1 {
@@ -61,7 +61,7 @@ body {
 }
 .ini > a {
     text-decoration: none;
-    border: 0.125rem solid red;
+    border: 0.125rem solid #ab0501;
     padding: 0.625rem 1.875rem;
     background-color: black;
     color: white;
@@ -229,10 +229,11 @@ footer a {
 }
 
 @media (max-width: 600px) {
-    
+    .ini{
+        background-position: center;
+    }
     .ini > h4 {
-        padding-top: 1.3rem;
-        
+        padding-top: 1.3rem;   
     }
     .ini > img {
         padding-top: 1.3rem;
