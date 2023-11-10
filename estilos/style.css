@@ -61,7 +61,7 @@ body {
 }
 .ini > a {
     text-decoration: none;
-    border: 0.125rem solid #ab0501;
+    border: 0.125rem solid #ca0b0b;
     padding: 0.625rem 1.875rem;
     background-color: black;
     color: white;
@@ -83,7 +83,7 @@ body {
     padding-top: 2.5rem;
 }
 .empresa > h3{
-    color: red;
+    color: #ca0b0b;
     text-align: center;
     font-weight: bolder;
     margin-top: -0.9375rem;
@@ -131,7 +131,7 @@ body {
 }
 
 .titulo >h2 {
-    color: red;
+    color: #ca0b0b;
     font-size: 1.8em;
     margin-top: -1.25rem;
     font-family: 'Times New Roman', Times, serif;
@@ -142,7 +142,7 @@ body {
     width: 3.125rem;
     color:white;
     text-decoration: none;
-    border:0.125rem solid red;
+    border:0.125rem solid #ca0b0b;
     padding: 0.625rem 1.875rem;
 }
 
@@ -167,7 +167,7 @@ body {
 }
 
 .titulo1 >h2 {
-    color: red;
+    color:#ca0b0b;
     font-size: 1.8em;
     margin-top: -1.25rem;
     font-family: 'Times New Roman', Times, serif;
@@ -178,7 +178,7 @@ body {
     width: 3.125rem;
     color:white;
     text-decoration: none;
-    border: 0.125rem solid red;
+    border: 0.125rem solid #ca0b0b;
     padding: 0.625rem 1.875rem;
 }
 
@@ -210,7 +210,7 @@ body {
 }
 
 .fim2 > h5 {
-    color: red;
+    color: #ca0b0b;
     font-family: 'Times New Roman', Times, serif;
     
 }
@@ -223,7 +223,7 @@ footer > p {
 }
 footer a {
     width: 50%;
-    color:red;
+    color:#ca0b0b;
     text-decoration: none;
     
 }
@@ -232,7 +232,7 @@ footer a {
     .ini{
         background-position: center;
     }
-    .ini > h4 {
+    .ini > h4 { 
         padding-top: 1.3rem;   
     }
     .ini > img {
